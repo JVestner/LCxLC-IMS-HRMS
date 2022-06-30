@@ -8,5 +8,9 @@ Example data files are very large (> 400 MB) and can be provided on demand.
 The data is based on Venter et al. Comprehensive Three-Dimensional LC × LC × Ion Mobility Spectrometry Separation Combined with High-Resolution MS for the Analysis of Complex Samples, Anal. Chem. 2018, 90, 19, 11643–11650 https://pubs.acs.org/doi/abs/10.1021/acs.analchem.8b03234
 
 
-![image](https://user-images.githubusercontent.com/30834706/176767270-4ef1f1d8-7df6-4516-9aae-996c9bc2263c.png)
 
+
+
+
+
+![screenshot_app](https://user-images.githubusercontent.com/30834706/176767563-33049bd2-4dea-4f63-8df9-24f5fb61d39f.png)
