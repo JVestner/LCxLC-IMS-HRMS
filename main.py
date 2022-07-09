@@ -15,9 +15,9 @@ import time
 
 import os
 import dash
-import dash_core_components as dcc
-import dash_html_components as html
-from dash.dependencies import Input, Output, State, Event
+from dash import dcc #import dash_core_components as dcc  # 220709 changed as installation wasn't working anymore
+from dash import html # import dash_html_components as html # 220709 see above
+from dash.dependencies import Input, Output, State#, Event
 import glob
 import numpy as np
 import pandas as pd
