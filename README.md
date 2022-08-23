@@ -1,7 +1,7 @@
 # LCxLC-IMS-HRMS
 A browser application prototype for the analysis of three-dimensional comprehensive LCxLC-IMS coupled to HRMS data 
 
-This plotly dash browser application visualizes LCxLC-IMS-HR in a three-dimensional in an interactice scatterplot. Data points in the scatter plot represent either a sum of all ions (TIC), single ions or the sum of extracted ions. Moreover, by clicking on a data point in the three-dimensional chromatogram the high resolution mass spectrum is displayed.  
+This plotly dash browser application visualizes the four-dimensional LCxLC-IMS-HR data in a three-dimensional interactice scatterplot. Data points in the scatter plot represent either a sum of all ions (TIC), single ions or the sum of extracted ions. Moreover, by clicking on a data point in the three-dimensional chromatogram the high resolution mass spectrum is displayed.  
 
 Example data files are very large (> 400 MB) and can be provided on demand.
 
